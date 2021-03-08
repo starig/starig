@@ -6,9 +6,9 @@
 
 <b>Hello!<br>
   My name is Ivan.<br>
+  I know HTML (How To Meet Ladies).<br>
   I'm Junior Frontend developer.💻<br>
   I study at the ITMO University.📜 <br>
-  I know HTML (How To Meet Ladies).<br>
   Hope you enjoy my profile!🙂</b>
 
 
