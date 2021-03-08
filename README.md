@@ -1,4 +1,4 @@
-# Welcome to starig`s GitHub profile! 👋 👋 👋 
+# Welcome to the starig`s GitHub profile! 👋 👋 👋 
 
 ## About me:
 
