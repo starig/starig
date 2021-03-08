@@ -18,6 +18,10 @@ Hello! My name is Ivan, I'm Junior Frontend developer.
 <img align="left" alt="Git" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1615219468~hmac=711b6d654013a9ac102fa0c8c01c99ef" />
 <img align="left" alt="GitHub" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733609.svg?token=exp=1615219434~hmac=2bbf960ebcf02c81580eaacebc89faa7" />
 <img align="left" alt="WebStorm" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
+
+
 ***
+
+
 [Telegram]: https://t.me/starig
 [Instagram]: https://www.instagram.com/starig.bb/
