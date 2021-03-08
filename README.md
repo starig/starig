@@ -1,7 +1,8 @@
 # Welcome to starig`s GitHub profile! 👋 👋 👋 
 
 ## About me:
-Hello! My name is Ivan, I'm Junior Frontend developer.
+Hello! My name is Ivan, I'm Junior Frontend developer. <img align="left" alt="gif" width="30px" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
+
 #### Current location: Saint Petersburg
 
 ## Contact me:
