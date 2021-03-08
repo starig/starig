@@ -4,9 +4,12 @@
 
 <img alt="gif" width="200px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
-<b>Hello! My name is Ivan. I'm Junior Frontend developer.💻 I study at the ITMO University.📜 <br>
-I know HTML (How To Meet Ladies).<br>
-Hope you enjoy my profile!🙂</b>
+<b>Hello!<br>
+  My name is Ivan.<br>
+  I'm Junior Frontend developer.💻<br>
+  I study at the ITMO University.📜 <br>
+  I know HTML (How To Meet Ladies).<br>
+  Hope you enjoy my profile!🙂</b>
 
 
 #### Current location: Saint Petersburg🏠
