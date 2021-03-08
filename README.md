@@ -8,8 +8,8 @@ Hello! My name is Ivan, I'm Junior Frontend developer.
 
 
 ## My skills:
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="35px" src="https://www.flaticon.com/premium-icon/icons/svg/2786/2786969.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/3094/3094320.svg?token=exp=1615219140~hmac=423acaa7b0f5052028188a7e5633a86f" />
+<img align="left" alt="JavaScript" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1615219113~hmac=1d4d6397a0f053342bbf084a0b1b448b" />
 
 [Telegram]: https://t.me/starig
