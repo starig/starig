@@ -4,8 +4,8 @@
 
 <img alt="gif" width="200px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
-**Hello! My name is Ivan. I'm Junior Frontend developer.💻 I study at the ITMO University.📜 <br>
-I know HTML (How To Meet Ladies).<br>
+**Hello! My name is Ivan. I'm Junior Frontend developer.**💻 **I study at the ITMO University.**📜 <br>
+**I know HTML (How To Meet Ladies).<br>
 Hope you enjoy my profile!**🙂 
 
 
