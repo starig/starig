@@ -6,7 +6,7 @@
 
 **Hello! My name is Ivan. I'm Junior Frontend developer.💻 I study at the ITMO University.📜 <br>
 I know HTML (How To Meet Ladies).<br>
-Hope you enjoy my profile!🙂 **
+Hope you enjoy my profile!**🙂 
 
 
 #### Current location: Saint Petersburg🏠
