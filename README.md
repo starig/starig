@@ -4,12 +4,12 @@
 
 <img alt="gif" width="200px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
-**Hello! My name is Ivan. I'm Junior Frontend developer. I study at the ITMO University. <br>
+**Hello! My name is Ivan. I'm Junior Frontend developer.💻 I study at the ITMO University.📜 <br>
 I know HTML (How To Meet Ladies).<br>
-Hope you enjoy my profile!**
+Hope you enjoy my profile!🙂 **
 
 
-#### Current location: Saint Petersburg
+#### Current location: Saint Petersburg🏠
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111813.svg?token=exp=1615221331~hmac=299e88fcbbc27f056da858abb2886549" />][Telegram]
