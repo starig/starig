@@ -1,8 +1,8 @@
-# Welcome to the starig`s GitHub profile! 👋 👋 👋 
+# Welcome to the starig's GitHub profile! 👋 👋 👋 
 
 ## About me:
 
-<img alt="gif" width="100px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif"/>
+<img alt="gif" width="100px" align="right" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
 
 Hello! My name is Ivan, I'm Junior Frontend developer. I study at the ITMO University.
 
@@ -13,8 +13,8 @@ Hello! My name is Ivan, I'm Junior Frontend developer. I study at the ITMO Unive
 #### Current location: Saint Petersburg
 
 ## Contact me:
-[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1615217612~hmac=0888ead7efa30503d58e0c9cbb9cdfab"/>][Telegram]
-[<img align="left" alt="instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1615219636~hmac=d63e3e15b9db7ea98600bfbd39a1b867"/>][Instagram]
+[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1615217612~hmac=0888ead7efa30503d58e0c9cbb9cdfab" />][Telegram]
+[<img align="left" alt="instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1615219636~hmac=d63e3e15b9db7ea98600bfbd39a1b867" />][Instagram]
 
 <br>
 
