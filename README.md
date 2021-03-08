@@ -12,7 +12,7 @@ Hope you enjoy my profile!**
 #### Current location: Saint Petersburg
 
 ## Contact me:
-[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1615217612~hmac=0888ead7efa30503d58e0c9cbb9cdfab" />][Telegram]
+[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111813.svg?token=exp=1615221331~hmac=299e88fcbbc27f056da858abb2886549" />][Telegram]
 [<img align="left" alt="instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111679.svg?token=exp=1615221233~hmac=d74f1cd3b540628acf2a51cf69992b2d" />][Instagram]
 
 <br>
