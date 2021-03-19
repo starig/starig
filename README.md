@@ -15,18 +15,17 @@
 #### Current location: Saint Petersburg🏠
 
 ## Contact me:
-[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111813.svg?token=exp=1615221331~hmac=299e88fcbbc27f056da858abb2886549" />][Telegram]
-[<img align="left" alt="instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111679.svg?token=exp=1615221233~hmac=d74f1cd3b540628acf2a51cf69992b2d" />][Instagram]
+[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1616114453~hmac=1f03181f0f66986cc18675dbd5ac4046" />][Telegram]
 
 <br>
 
 ## My skills:
 <img align="left" alt="HTML5" width="30px" src="https://www.flaticon.com/premium-icon/icons/svg/2786/2786969.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/3094/3094320.svg?token=exp=1615642915~hmac=040d2f3e8bd6dba04e93ed87ac4cf394" />
-<img align="left" alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1615219113~hmac=1d4d6397a0f053342bbf084a0b1b448b" />
+<img align="left" alt="CSS3" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1616114479~hmac=b4412c918f517b456cb2cf78b0b23f80" />
+<img align="left" alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1616114501~hmac=449ea579ff7a97c8db4cbed151a97188" />
 <img align="left" alt="ReactJS" width="30px" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183621.svg" />
-<img align="left" alt="Git" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1615219468~hmac=711b6d654013a9ac102fa0c8c01c99ef" />
-<img align="left" alt="GitHub" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/733/733609.svg?token=exp=1615219434~hmac=2bbf960ebcf02c81580eaacebc89faa7" />
+<img align="left" alt="Git" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1616114528~hmac=7ec5d38e73822eed418abd2157671691" />
+<img align="left" alt="GitHub" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1616114549~hmac=6450e2d9b9850029bbbf6faabb0733d8" />
 <img align="left" alt="WebStorm" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
 
 
