@@ -21,7 +21,7 @@
 
 ## My skills:
 <img align="left" alt="HTML5" width="30px" src="https://www.flaticon.com/premium-icon/icons/svg/2786/2786969.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1616673953~hmac=fbda0f234cc295c57c4ce41607e4f453" />
+<img align="left" alt="CSS3" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1616902296~hmac=04a84017e3de1a86dad08715d0f58d40" />
 <img align="left" alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1616673971~hmac=6548d8cf33abfff5cc67571ec000572f" />
 <img align="left" alt="ReactJS" width="30px" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183621.svg" />
 <img align="left" alt="Git" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1616114528~hmac=7ec5d38e73822eed418abd2157671691" />
