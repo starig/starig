@@ -15,7 +15,7 @@
 #### Current location: Saint Petersburg🏠
 
 ## Contact me:
-[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1618635220~hmac=02e209283a66a6d4688d3294492f25d6" />][Telegram]
+[<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
 
 <br>
 
