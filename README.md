@@ -31,4 +31,3 @@
 
 
 [Telegram]: https://t.me/starig
-[Instagram]: https://www.instagram.com/starig.bb/
