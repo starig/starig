@@ -23,9 +23,9 @@
 <img align="left" alt="HTML5" width="35px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" alt="CSS3" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img align="left" alt="ReactJS" width="35px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1661241395~hmac=2d9ae789f9624903a1042cb6b79671e7" />
+<img align="left" alt="ReactJS" width="35px" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" />
 <img align="left" alt="Redux" width="35px" src="https://sun9-14.userapi.com/impg/P3yaj6VKAYMxi55PcAZPKC1F9FuLNeyZvbTrBg/iW4OMeGQhWo.jpg?size=35x35&quality=96&sign=b1cd7340ac2766dac00d71d948e37c58&type=album" />
-<img align="left" alt="Git" width="35px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1661241413~hmac=92e59ed455b3632253dc6c5b2f5af651" />
+<img align="left" alt="Git" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 <img align="left" alt="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
 
