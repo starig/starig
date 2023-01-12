@@ -21,7 +21,7 @@
 
 ## My skills:
 <img align="left" alt="HTML5" width="35px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
-<img align="left" alt="CSS3" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+<img align="left" alt="CSS3" width="35px" src="[https://cdn-icons-png.flaticon.com/512/919/919826.png](https://cdn-icons-png.flaticon.com/512/732/732190.png)" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" alt="TypeScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="ReactJS" width="35px" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" />
