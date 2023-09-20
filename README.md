@@ -29,6 +29,8 @@
 <img align="left" alt="Git" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
 <img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 <img align="left" alt="WebStorm" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-svg-vector.svg" />
-
+<img align="left" alt="Dart" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" />
+<img align="left" alt="Dart" width="35px" src="https://www.svgrepo.com/show/353751/flutter.svg" />
+<img align="left" alt="Dart" width="35px" src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" />
 
 [Telegram]: https://t.me/starig
