@@ -12,7 +12,7 @@
   Hope you enjoy my profile!🙂</b>
 
 
-#### Current location: Saint-Petersburg🏠
+#### Current location: Belgrade🏠
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
